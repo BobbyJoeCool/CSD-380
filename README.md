@@ -1,5 +1,24 @@
 # CSD-380: DevOps
 
+Welcome to CSD 380 - DevOps!
+
+This course introduces students to a set of DevOps (Development Operations) tools and best practices that emphasize the collaboration and automation of approaches to the development of software. Principles of release management, configuration management, orchestration, virtualization, containerization, and monitoring are examined to improve collaboration and communication. Students will gain experience with unit testing, writing test plans, functional testing, and code reviews. Students will gain an understanding of how continuous delivery improves software quality.
+
+### Course Skills
+
+1. Evaluate software maturity and readiness for promotion through the various development environments.
+1. Use release management and configuration management techniques in software development
+1. Develop unit test plans and conduct functional testing on software.
+
+### Course Objectives
+
+Students who successfully complete this course should be able to:
+
+1. Interpret the principles underpinning DevOps.
+1. Explain the ways in which deployment pipelines, fast and reliable automated testing, continuous integration, and low-risk releases improve operational time and costs.
+1. Apply industry best practices for managing information security.
+1. Develop a strategy for change management and compliance controls.
+
 ## Week One
 
 **Monday, June 1st, 2026 through Sunday, June 6th, 2026**
