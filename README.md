@@ -4,6 +4,29 @@ Welcome to CSD 380 - DevOps!
 
 This course introduces students to a set of DevOps (Development Operations) tools and best practices that emphasize the collaboration and automation of approaches to the development of software. Principles of release management, configuration management, orchestration, virtualization, containerization, and monitoring are examined to improve collaboration and communication. Students will gain experience with unit testing, writing test plans, functional testing, and code reviews. Students will gain an understanding of how continuous delivery improves software quality.
 
+## Table of Contents
+
+- [Week One](#week-one)
+  - [Module One: The History of DevOps](#module-one-the-history-of-devops)
+- [Week Two](#week-two)
+  - [Module Two: Basic Terms in DevOps](#module-two-basic-terms-in-devops)
+- [Week Three](#week-three)
+  - [Module Three: Version Control](#module-three-version-control)
+- [Week Four](#week-four)
+  - [Module Four: Test Plans and Functional Testing](#module-four-test-plans-and-functional-testing)
+- [Week Five](#week-five)
+  - [Module Five: Deployment Pipelines and Automated Testing](#module-five-deployment-pipelines-and-automated-testing)
+  - [Module Six: Continuous Integration and Low-Risk Releases](#module-six-continuous-integration-and-low-risk-releases)
+- [Week Six](#week-six)
+  - [Module Seven: Telemetry, Hypothesis-Driven Deployment, and Code Reviews](#module-seven-telemetry-hypothesis-driven-deployment-and-code-reviews)
+- [Week Seven](#week-seven)
+  - [Module Eight: Injecting Learning into Daily Work](#module-eight-injecting-learning-into-daily-work)
+- [Week Eight](#week-eight)
+  - [Module Nine: Converting Local Discoveries into Global Improvements](#module-nine-converting-local-discoveries-into-global-improvements)
+  - [Module Ten: DevOps Security](#module-ten-devops-security)
+- [Week Nine](#week-nine)
+  - [Module Eleven: The Development Pipeline and DevOps Trends](#module-eleven-the-development-pipeline-and-devops-trends)
+
 ### Course Skills
 
 1. Evaluate software maturity and readiness for promotion through the various development environments.
