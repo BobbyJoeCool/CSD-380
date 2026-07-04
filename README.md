@@ -357,7 +357,7 @@ Select one of the following and find at least one article on the topic.
 
 ##### Assignment 5.2: Value Stream Mapping (VSM)
 
-Read through the article ["3 Easy Steps for Using VSM in Everyday Life"](https://www.connectall.com/blog/3-easy-steps-for-using-vsm-in-everyday-life/).
+Read through: [Value Mapping: 3 Easy Steps for Using VSM in Everyday Life](Module-5/3%20Easy%20Steps%20for%20Using%20VSM%20in%20Everyday%20Life.pdf)
 
 Instructions:
 
